@@ -1,0 +1,5 @@
+.env
+temp_notes.md
+node_modules
+*.png
+!Baseline_One.png

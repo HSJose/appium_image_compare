@@ -1,0 +1,13 @@
+{
+  "name": "appium_image_compare",
+  "type": "module",
+  "devDependencies": {
+    "@wdio/cli": "^8.29.0"
+  },
+  "scripts": {
+    "wdio": "wdio run ./wdio.conf.js"
+  },
+  "dependencies": {
+    "looks-same": "^9.0.0"
+  }
+}
